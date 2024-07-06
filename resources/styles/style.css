@@ -31,6 +31,14 @@ aside {
     text-align: center;
 }
 
+aside a {
+    color: royalblue;
+}
+
+aside a:hover {
+    color: powderblue;
+}
+
 footer {
     color: white;
     padding: 5% 10%;
@@ -117,14 +125,6 @@ a:hover {
 
 .quote {
     font-style: italic;
-}
-
-.projects a {
-    color: royalblue;
-}
-
-.projects a:hover {
-    color: powderblue;
 }
 
 /* Media Query for Larger Devices */
